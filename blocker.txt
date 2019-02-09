@@ -1,0 +1,103 @@
+ameblo.jp##DIV[class="SpAdInfeed__Block___TPiSY"]
+d.hatena.ne.jp##SPAN[class="highlight"]
+pixiv.net##.ad
+blog.goo.ne.jp##[style="height: 100px; position: fixed; z-index: 998; bottom: 0; width:100%; display: block; text-align: center; background-color:rgba(59,88,152,0.5);"]
+dic.pixiv.net##DIV[class="pixivcomic_body_ad"]
+dic.pixiv.net##DIV[id="inner_pixivcomic_touch"]
+dic.pixiv.net##DIV[id="bottom_pixivcomic_touch"]
+dic.pixiv.net##DIV[id="bottom_spotlight_touch"]
+dic.pixiv.net##DIV[id="bottom_spotlight_touch"]
+dic.pixiv.net##A[class="comic-banner-container"]
+pixiv.net##SECTION[class="comic-hot-works"]
+pixiv.net##DIV[class="comic-hot-works-container"]
+pixiv.net##DIV[class="comic-hot-works-container-inside"]
+detail.chiebukuro.yahoo.co.jp##DIV[class="lstAd"]
+detail.chiebukuro.yahoo.co.jp##DIV[class="lstDIYdn"]
+detail.chiebukuro.yahoo.co.jp##DIV[class="yj_vp"]
+yahoo.co.jp##DIV[class="lstYdnSign"]
+detail.chiebukuro.yahoo.co.jp##DIV[id="rma-pdv""]
+detail.chiebukuro.yahoo.co.jp##DIV[id="emg"]
+detail.chiebukuro.yahoo.co.jp##DIV[id="emg2"]
+detail.chiebukuro.yahoo.co.jp##DIV[class="yj-vp-video"]
+ai.ying.jp/*
+detail.chiebukuro.yahoo.co.jp##ARTICLE[class="aContainer appBtn"]
+detail.chiebukuro.yahoo.co.jp##DIV[class="cmnBtnMedium"]
+detail.chiebukuro.yahoo.co.jp###lsc > .md_listBdr > .lstAd:nth-of-type(3)
+detail.chiebukuro.yahoo.co.jp###sub-top > .mdAdImg
+detail.chiebukuro.yahoo.co.jp###fuwa > .fwaBoxWrap > .fwaBox
+detail.chiebukuro.yahoo.co.jp###lsc > .md_listBdr > .lstAd:nth-of-type(2)
+blogs.yahoo.co.jp###ydn-tx_t > .iMWmgNone.IMblog1.interestMatchWrap
+blogs.yahoo.co.jp###ydn-tx_b > .iMWmgNone.IMblog1.interestMatchWrap
+ejje.weblio.jp##DIV[id="ad_root"]
+college2ch.blomaga.jp##DIV[class="boxbox"]
+blogroll.livedoor.net/js/blogroll.js
+chiebukuro.yahoo.co.jp###im_main
+chiebukuro.yahoo.co.jp###im_sub
+chiebukuro.yahoo.co.jp###pos-lrec
+chiebukuro.yahoo.co.jp###sub-top
+chiebukuro.yahoo.co.jp###vo_main
+chiebukuro.yahoo.co.jp##.Extends-sub-module
+chiebukuro.yahoo.co.jp##.adRP
+chiebukuro.yahoo.co.jp##DIV[class="ss btm"]
+chiebukuro.yahoo.co.jp##.im_img
+chiebukuro.yahoo.co.jp##.md_adImg
+chiebukuro.yahoo.co.jp##.ysp_ad
+chiebukuro.yahoo.co.jp##[style="margin-top:-5px; margin-bottom:15px;"]
+chiebukuro.yahoo.co.jp##[style="width:948px;border:1px solid #CBD48C;display:block;margin:0px;padding:0px;"]
+chiebukuro.yahoo.co.jp##DIV[class="KSo"]
+chiebukuro.yahoo.co.jp##DIV[id="So1"]
+chiebukuro.yahoo.co.jp##DIV[id="So2"]
+chiebukuro.yahoo.co.jp##DIV[id="So2"]
+carview.co.jp##DIV[class="sponsor top-bottom"]
+carview.co.jp##DIV[class="sponsor bottom"]
+carview.co.jp##DIV[class="list_ycon"]
+carview.co.jp##DIV[id="footerbanner"]
+carview.co.jp##DIV[id="smartbanner"]
+carview.co.jp##DIV[class="pr_on_top"]
+oshiete.goo.ne.jp##DIV[class="windowSearchBoxContent windowSearchBoxContent2"]
+##a[href*="2ch-c.net"]
+##a[href*="moudamepo.com"]
+##a[href*="newmofu.doorblog.jp"]
+##a[href*="inazumanews2.com"]
+##a[href*="owata.chann.net"]
+##a[href*="get2ch.net"]
+##a[href*="nullpoantenna.com"]
+##a[href*="matomeantena.com"]
+##a[href*="antennash.com"]
+##a[href*="plasma-antenna.com"]
+##a[href*="rd.ane.yahoo.co.jp"]
+##a[href*="feedback.promotionalads.yahoo.co.jp"]
+##a[href*="rd.listing.yahoo.co.jp"]
+##div[style*="width:300px;height:250px;"]
+##DIV[id="mpd"]
+##DIV[id="mpdc"]
+##DIV["ninja-hp-inactive"]
+##DIV["ninja-hp-inactive-footer"]
+http://i.yimg.jp/images/blog/smartphone/v2/img/*.jpg
+search.yahoo.co.jp##DIV[class="peron rapidnofollow"]
+google.co.jp##DIV[class="sbmsq_b"]
+google.co.jp##DIV[class="sbdd_b"]
+google.co.jp##DIV[class="gstl_0 sbdd_a"]
+search.yahoo.co.jp##DIV[class="peron__inner"]
+blog.goo.ne.jp##div[style*="height: 50px; position: fixed; z-index: 998; bottom: 0; width:100%; display: block; text-align: center; background-color:rgba(59,88,152,0.5);"]
+DIV[id="arrow-container"]
+google.co.jp##DIV[id="hplogo"]
+google.co.jp###hplogo
+google.co.jp###lga
+dic.nicovideo.jp##h2[style="border-bottom: 1px solid #FFD248;background:url(/oekaki/297623.png) no-repeat 0px;"],h3[style="border-bottom: 1px solid #FFD248;background:url(/oekaki/297626.png) no-repeat 0px;"],h3[style="border-bottom: 1px solid #FFD248;background:url(/oekaki/297626.png) no-repeat 0px;"] + iframe,h3[style="border-bottom: 1px solid #FFD248;background:url(/oekaki/297626.png) no-repeat 0px;"] + iframe + iframe,h3[style="border-bottom: 1px solid #FFD248;background:url(/oekaki/297626.png) no-repeat 0px;"] + table
+dic.nicovideo.jp##div.adsense-728
+! 2018/3/1 19:21:09 http://minkara.carview.co.jp/userid/2663013/my/
+minkara.carview.co.jp##.side_Ad_block
+
+! 2018/3/1 19:22:03 http://minkara.carview.co.jp/userid/2663013/car/
+http://cdn.snsimg.carview.co.jp/cvmaterials/minkara/*/banner/*
+
+! 2018/3/1 20:13:40 http://minkara.carview.co.jp/userid/2663013/car/2504582/parts.aspx
+||cdn.snsimg.carview.co.jp/cvmaterials/minkara//banner/assess/03_assess_new.gif$image
+
+! 2018/3/1 20:14:34 http://minkara.carview.co.jp/userid/2663013/car/2504582/note.aspx
+||cdn.snsimg.carview.co.jp/cvmaterials/minkara//banner/assess/03_assess_new.gif$image
+minkara.carview.co.jp##DIV[style="margin-top:10px;margin-bottom:10px;"]
+minkara.carview.co.jp##A[id*="_Banner"]
+minkara.carview.co.jp##div.maincontents_body displaymode-detail>ul:first-child>li:nth-of-type(2)
+minkara.carview.co.jp##div.maincontents_body displaymode-detail>ul:first-child>li:nth-of-type(1)
